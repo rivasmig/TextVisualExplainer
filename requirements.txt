@@ -1,0 +1,7 @@
+pyttsx3
+moviepy
+torch
+diffusers
+PyMuPDF
+python-docx
+tqdm
